@@ -1,0 +1,3 @@
+.container .billing-details{border: 2px solid greenyellow;border-radius: 20%;background-color: #f8989d;padding-top: 3%;padding-bottom: 3%;}
+a {cursor: pointer; text-decoration: none; color:'green';}
+.new-account .link:hover{color: #979797;}
